@@ -1,8 +1,12 @@
 {
   "name": "sg-workspace",
   "displayName": "SG_Workspace",
-  "description": "and extension for workspace opening file and saving opened file",
+  "description": "an extension for workspace opening file and saving opened file",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AselAsel-bumbastik/SG_Workspace.git"
+  },
   "publisher": "AselJohnGuinoo",  
   "engines": {
     "vscode": "^1.95.0"
